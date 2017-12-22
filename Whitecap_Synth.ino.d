@@ -1,5 +1,5 @@
 Whitecap_Synth.ino.o: \
- C:\Users\Tristan\AppData\Local\Temp\builde8c5a86bc37231c2d4afc7ad33794357.tmp\sketch\Whitecap_Synth.ino.cpp \
+ C:\Users\Tristan\AppData\Local\Temp\build1928dba59fe06c2c2fb6195bbd53d173.tmp\sketch\Whitecap_Synth.ino.cpp \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\MIDI/MIDI.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\Audio/Audio.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\cores\teensy3/DMAChannel.h \
@@ -92,4 +92,4 @@ Whitecap_Synth.ino.o: \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\Audio/synth_whitenoise.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\Audio/synth_pinknoise.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\teensy\avr\libraries\Wire/Wire.h \
- C:\Users\Tristan\AppData\Local\Temp\builde8c5a86bc37231c2d4afc7ad33794357.tmp\sketch\MIDI_CONVERSION.h
+ C:\Users\Tristan\AppData\Local\Temp\build1928dba59fe06c2c2fb6195bbd53d173.tmp\sketch\MIDI_CONVERSION.h
